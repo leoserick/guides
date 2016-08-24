@@ -1,7 +1,5 @@
 # Guides
 
-Continuous integration https://travis-ci.org/, https://circleci.com/, https://codeship.com/
-
 ### Entorno desarrollo
 
 **Provisionamiento**
@@ -18,10 +16,15 @@ Continuous integration https://travis-ci.org/, https://circleci.com/, https://co
 * Chrome
 * Google Drive
 * Telegram
-* Audio conferencias Discord
-* Video conferencias Webcam, Screencast con anotaciones
+* [Discord](https://discordapp.com/) - Audio chat.
+* [Room](https://room.co/) - Video meetings and screen sharing.
+* [InVision](https://www.invisionapp.com/) - Design prototyping, tours, real-time collaboration & feedback, version control and sync.
 
 
+Continuous integration 
+https://travis-ci.org/, 
+https://circleci.com/, 
+https://codeship.com/
 
 
 GitHub
@@ -31,12 +34,8 @@ ssh key
 https://www.git-tower.com/
 https://www.atlassian.com/software/sourcetree
 
-
-
 https://github.com/thoughtbot/guides
 https://github.com/IcaliaLabs/icalia_guides
-
-
 
 
 
