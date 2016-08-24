@@ -9,7 +9,7 @@ Continuous integration https://travis-ci.org/, https://circleci.com/, https://co
 * [Vagrant](https://www.vagrantup.com/downloads.html), [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 * [Heroku Toolbelt](https://toolbelt.heroku.com/windows)
 * Text editor ([Sublime](https://www.sublimetext.com/), [Brackets](http://brackets.io/))
-* [Editor config](http://editorconfig.org/#download)
+  * [Editor config](http://editorconfig.org/#download)
 * Git GUI ([Tower](https://www.git-tower.com/), [SourceTree](https://www.atlassian.com/software/sourcetree))
 * Password manager [pwSafe](https://pwsafe.org/)
 
