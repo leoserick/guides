@@ -11,7 +11,7 @@
 * Git GUI ([Tower](https://www.git-tower.com/), [SourceTree](https://www.atlassian.com/software/sourcetree))
 * Password manager [pwSafe](https://pwsafe.org/)
 
-### Communication
+## Communication
 * [Slack](https://slack.com/)
 * [Asana](https://asana.com/)
 * [Chrome](https://www.google.com/chrome/browser/desktop/index.html)
@@ -28,6 +28,11 @@ https://travis-ci.org/,
 https://circleci.com/, 
 https://codeship.com/
 
+
+https://learnxinyminutes.com/
+
+
+https://learnxinyminutes.com/docs/git/
 
 GitHub
 ssh key
